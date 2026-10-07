@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color:darkslategray;
+  color: aliceblue;
+}
+.css-1yhadnn-control{
+  width: 100% !important;
+}
+.w-64 css-b62m3t-container{
+  width: 65%;
+}
+.css-4d79co-control{
+  width: 30% !important;
+}
+.btnNormal{
+  padding: 10px;
+  color: aliceblue;
+  border-radius: 10px;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+}
